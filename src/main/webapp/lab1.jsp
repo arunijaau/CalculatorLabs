@@ -15,7 +15,7 @@
         <h1>Area of a Rectangle</h1>
         <img src="rectangle.gif">
         
-        <form name="rectangleForm" id="rectangleForm" method="POST" action="calculatorController?calcType=rectangle?labNo=lab1">
+        <form name="rectangleForm" id="rectangleForm" method="POST" action="calculatorController?calcType=rectangle&labNo=lab1">
             Enter width: <input type="text" value="" name="width">
             <br>
             Enter height: <input type="text" value="" name="height">

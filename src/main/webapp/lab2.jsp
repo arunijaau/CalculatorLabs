@@ -21,7 +21,7 @@
         
         <img src="rectangle.gif">
 
-        <form name="rectangleForm" id="rectangleForm" method="POST" action="calculatorController?calcType=rectangle?labNo=lab2">
+        <form name="rectangleForm" id="rectangleForm" method="POST" action="calculatorController?calcType=rectangle&labNo=lab2">
             Enter width: <input type="text" value="" name="width">
             <br>
             Enter height: <input type="text" value="" name="height">
